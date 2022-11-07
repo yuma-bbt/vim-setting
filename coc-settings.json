@@ -1,0 +1,12 @@
+"languageserver": {
+  "rust": {
+    "command": "rust-analyzer",
+    "filetypes": ["rust"],
+    "rootPatterns": ["Cargo.toml"]
+  },
+  "jedi": {
+    "enable": true,
+    "startupMessage": false,
+    "executable.command": "~/.anyenv/envs/pyenv/versions/neovim3/bin/jedi-language-server"
+  }
+}
