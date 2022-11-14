@@ -30,6 +30,7 @@ set number
 set backspace=2
 set noswapfile
 set fileencodings=utf-8,iso-2022-jp,cp932,sjis,euc-jp
+set encoding=UTF-8
 au BufRead,BufNewFile *.md set filetype=markdown
 let g:vim_markdown_folding_disabled=1
 

@@ -18,6 +18,8 @@ Plug 'simrat39/rust-tools.nvim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'majutsushi/tagbar'
+Plug 'ryanoasis/vim-devicons'
+
 "Plug 'Shougo/ddc-around'
 "Plug 'LumaKernel/ddc-file'
 "Plug 'Shougo/ddc-matcher_head'
